@@ -1,0 +1,362 @@
+
+
+
+
+Running loop for N = 10**3
+=========================================
+SLURM_JOB_ID = 710068
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 1
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 727238
+==========================================
+I_0 = 3.14159
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 0.54628
+=========================================
+SLURM_JOB_ID = 710069
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 2
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 727303
+==========================================
+I_0 = 1.85459
+I_1 = 1.287
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 0.0115097
+=========================================
+SLURM_JOB_ID = 710070
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 3
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 727374
+==========================================
+I_0 = 1.2858
+I_1 = 0.789428
+I_2 = 1.06436
+Parallel computed integral: 3.13959
+Non-parallel computed integral: 3.14159
+S = 0.00685574
+=========================================
+SLURM_JOB_ID = 710071
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 4
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 727454
+==========================================
+I_0 = 0.979915
+I_1 = 0.874676
+I_2 = 0.719414
+I_3 = 0.567588
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 0.00621958
+=========================================
+SLURM_JOB_ID = 710072
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 5
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 727541
+==========================================
+I_0 = 0.789582
+I_1 = 0.442629
+I_2 = 0.537286
+I_3 = 0.732443
+I_4 = 0.639652
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 0.00529318
+=========================================
+SLURM_JOB_ID = 710073
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 6
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 727637
+==========================================
+I_0 = 0.658
+I_1 = 0.565985
+I_2 = 0.6242
+I_3 = 0.362505
+I_4 = 0.426455
+I_5 = 0.496431
+Parallel computed integral: 3.13358
+Non-parallel computed integral: 3.14159
+S = 0.00228733
+=========================================
+SLURM_JOB_ID = 710074
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 7
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 727743
+==========================================
+I_0 = 0.564228
+I_1 = 0.455361
+I_2 = 0.542628
+I_3 = 0.504013
+I_4 = 0.352993
+I_5 = 0.306941
+I_6 = 0.403393
+Parallel computed integral: 3.12956
+Non-parallel computed integral: 3.14159
+S = 0.00543574
+=========================================
+SLURM_JOB_ID = 710075
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 8
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 727859
+==========================================
+I_0 = 0.49742
+I_1 = 0.301316
+I_2 = 0.379807
+I_3 = 0.419508
+I_4 = 0.339607
+I_5 = 0.482495
+I_6 = 0.266273
+I_7 = 0.455168
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 0.00706444
+
+
+
+Running loop for N = 10**6
+=========================================
+SLURM_JOB_ID = 710076
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 1
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 727984
+==========================================
+I_0 = 3.14159
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 0.991506
+=========================================
+SLURM_JOB_ID = 710077
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 2
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 728044
+==========================================
+I_0 = 1.85459
+I_1 = 1.287
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 1.68449
+=========================================
+SLURM_JOB_ID = 710078
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 3
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 728113
+==========================================
+I_0 = 1.287
+I_1 = 1.06501
+I_2 = 0.789582
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 2.23839
+=========================================
+SLURM_JOB_ID = 710079
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 4
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 728191
+==========================================
+I_0 = 0.979915
+I_1 = 0.874676
+I_2 = 0.719414
+I_3 = 0.567588
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 2.7329
+=========================================
+SLURM_JOB_ID = 710080
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 5
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 728279
+==========================================
+I_0 = 0.789582
+I_1 = 0.732443
+I_2 = 0.639652
+I_3 = 0.537286
+I_4 = 0.442629
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 3.04419
+=========================================
+SLURM_JOB_ID = 710081
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 6
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 728375
+==========================================
+I_0 = 0.660592
+I_1 = 0.626405
+I_2 = 0.497419
+I_3 = 0.567587
+I_4 = 0.426942
+I_5 = 0.362639
+Parallel computed integral: 3.14158
+Non-parallel computed integral: 3.14159
+S = 3.99452
+=========================================
+SLURM_JOB_ID = 710082
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 7
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 728480
+==========================================
+I_0 = 0.567588
+I_1 = 0.404413
+I_2 = 0.54561
+I_3 = 0.307088
+I_4 = 0.506368
+I_5 = 0.457017
+I_6 = 0.353507
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 3.30785
+=========================================
+SLURM_JOB_ID = 710083
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 8
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 728594
+==========================================
+I_0 = 0.49742
+I_1 = 0.379807
+I_2 = 0.339607
+I_3 = 0.301316
+I_4 = 0.419508
+I_5 = 0.455168
+I_6 = 0.482495
+I_7 = 0.266273
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 3.45878
+
+
+
+Running loop for N = 10**8
+=========================================
+SLURM_JOB_ID = 710084
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 1
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 728718
+==========================================
+=========================================
+SLURM_JOB_ID = 710085
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 2
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 728769
+==========================================
+=========================================
+SLURM_JOB_ID = 710086
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 3
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 728829
+==========================================
+I_0 = 3.14159
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 1.0012
+I_0 = 1.85459
+I_1 = 1.287
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 2.00044
+=========================================
+SLURM_JOB_ID = 710087
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 4
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 728916
+==========================================
+I_0 = 1.287
+I_1 = 1.06501
+I_2 = 0.789582
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 2.99108
+=========================================
+SLURM_JOB_ID = 710088
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 5
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 729004
+==========================================
+I_0 = 0.979915
+I_1 = 0.567588
+I_2 = 0.719414
+I_3 = 0.874676
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 3.98868
+=========================================
+SLURM_JOB_ID = 710089
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 6
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 729101
+==========================================
+I_0 = 0.789582
+I_1 = 0.537286
+I_2 = 0.639652
+I_3 = 0.732443
+I_4 = 0.442629
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 4.97733
+=========================================
+SLURM_JOB_ID = 710090
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 7
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 729206
+==========================================
+I_0 = 0.660595
+I_1 = 0.36264
+I_2 = 0.567588
+I_3 = 0.426943
+I_4 = 0.626407
+I_5 = 0.49742
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 5.97655
+=========================================
+SLURM_JOB_ID = 710091
+SLURM_JOB_NODELIST = node20-10
+SLURM_CPUS_ON_NODE = 8
+SLURM_JOB_PARTITION = RT_study
+SLURM_TASK_PID = 729322
+==========================================
+I_0 = 0.567588
+I_1 = 0.54561
+I_2 = 0.404413
+I_3 = 0.506369
+I_4 = 0.457017
+I_5 = 0.353507
+I_6 = 0.307088
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 6.937
+I_0 = 0.49742
+I_1 = 0.455168
+I_2 = 0.419508
+I_3 = 0.301316
+I_4 = 0.379807
+I_5 = 0.482495
+I_6 = 0.339607
+I_7 = 0.266273
+Parallel computed integral: 3.14159
+Non-parallel computed integral: 3.14159
+S = 7.93119
+End od testing
